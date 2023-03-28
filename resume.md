@@ -2,6 +2,8 @@
 layout: resume
 title: Sebastian Dunn's Resume
 ---
+
+
 # Sebastian Dunn
 Software Developer | Computer Science Major | Technical Consultant
 
@@ -15,14 +17,13 @@ Software Developer | Computer Science Major | Technical Consultant
 
 ## Education
 
-`2025-2027`
+`September 2021 - December 2024`
 __Bachelor's Degree in Computer Science__
 _Brigham Young University - Idaho, Rexburg, ID_
 
 - Minor: Data Science
 - GPA: 3.8
 
-`Expected April 2024`
 
 ## Related Experience
 

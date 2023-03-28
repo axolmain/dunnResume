@@ -3,8 +3,13 @@ _site/
 .DS_Store
 *.DS_Store
 .DS_Store?
-.Rproj.user
+.Rproj.user/
+.index_2027_files/
+.resume_files
 mdresume.Rproj
 index_2017.html
 docs_setup.png
 index_exmaple_1.md
+docs_setup.png
+index_2027.html
+index_example_1.md
